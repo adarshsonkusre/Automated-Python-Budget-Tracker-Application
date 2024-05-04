@@ -39,3 +39,19 @@ Contributions to enhance and improve the Automated Python Budget Management Appl
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for your own projects.
+
+
+## Screenshots
+
+**Output**
+
+![Screenshot (110)](https://github.com/adarshsonkusre/Automated-Python-Budget-Tracker-Application/assets/115790171/2b1ff648-a884-4ffb-b938-24800a86ac70)
+
+![Screenshot (111)](https://github.com/adarshsonkusre/Automated-Python-Budget-Tracker-Application/assets/115790171/6556aab8-85bd-4f86-938a-6a90d74b3fad)
+
+
+
+
+
+
+
